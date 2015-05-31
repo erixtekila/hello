@@ -37,6 +37,7 @@ Contributions welcome!
 	ufront server
 	
 	# Run a temporary server (PHP)
+	cd www
 	php -S localhost:2987
 
 ### Things to look out for
